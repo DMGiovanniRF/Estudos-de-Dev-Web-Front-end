@@ -1,0 +1,4 @@
+git init
+git add * (Pegar tudo que eu mudei e enviar)
+git commit -m "" (Oque eu mudei)
+git push -u origin main (Envia pro git)
