@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+h2 {
+    text-align: center;
+}
+
+#interface {
+    padding: 0 200px 0 200px;
+}
+
+p {
+    text-align: justify;
+    text-indent: 20px;
+}
+
+body {
+    background-color: black;
+    color: red
+}
+
+.imgGrande {
+    width: calc(100vw - 430px);
+}
+
+.imgIcon {
+    width: 26px;
+}
+
+/* h2:hover{
+        color: green;
+        transition: all .3s;
+    } */
